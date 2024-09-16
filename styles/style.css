@@ -1,0 +1,39 @@
+body {
+    background-image: url(/images/background.png);
+}
+
+#divPrincipal{
+    width: 40vw;
+  border-radius: 25px;
+  background-color: #fff;
+  padding: 25px;
+  margin: 0 auto;
+}
+
+.botones{
+    background-color: rgba(18, 46, 205, 0.83);
+    border-radius: 50px;
+    size: 500x;
+    color: #fff;
+}
+
+
+#pestana{
+    color: #fff;
+}
+.div1{
+    
+}
+
+.div{
+    
+}
+
+.div3{
+    
+    
+}
+#idimagen{
+    width: 350px;
+    height: 360px;
+}
